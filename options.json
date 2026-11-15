@@ -1,0 +1,5 @@
+{
+  "renderer": "webgl2",
+  "opt": "-O2",
+  "mem_mb": 1280
+}
